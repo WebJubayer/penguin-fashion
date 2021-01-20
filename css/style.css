@@ -1,0 +1,49 @@
+body{
+    font-family: 'Bangers', cursive;
+
+}
+header{
+    background-color: #fffbf0;
+}
+.nav-item a{
+    font-size: 18px;
+}
+.btp {
+    font-size: 50px;
+    font-weight: 700;
+    color: goldenrod;
+}
+.ow{
+    size: 50px;
+    font-weight: 700;
+    color: navy;
+}
+.first p{
+    font-size: 18px;
+    font-weight: 500;
+}
+.img1{
+    width: 100%;
+}
+.btn-cart{
+    padding: 5px;
+    border-radius: 8px;
+    font-size: 30px;
+}
+.btn-cart img{
+    width: 28%;
+}
+.heading{
+    color: navy;
+    font-size: 30px;
+}
+.price{
+    color: rgb(192, 164, 6);
+}
+.btn-now{
+    padding: 2px;
+    border-radius: 8px;
+    font-size: 30px;
+    margin-left: 100px;
+
+}
